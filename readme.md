@@ -6,4 +6,4 @@ Awesome-code-security-LLMs is a curated list of resources, tools, and research p
 
 | Time    | Title             |Venue            |Description           |Paper                   |Resources                   |
 |:-------:|------------------|:---------------:|---------------------|:----------------------:|:----------------------:|
-| 2021.07 | **CVEfixes: Automated Collection of Vulnerabilities and Their Fixes from Open-Source Software** | PROMISE'21 ||[link](https://arxiv.org/abs/2107.08760)|[code](https://github.com/secureIT-project/CVEfixes)<br>[dataset](https://zenodo.org/records/13118970)|
+| 2021.07 | **CVEfixes: Automated Collection of Vulnerabilities and Their Fixes from Open-Source Software** | PROMISE'21 |CVEfixes automates the process of collecting, classifying, and analyzing vulnerability fixes from open-source repositories, providing a rich dataset to advance research in software security.|[link](https://arxiv.org/abs/2107.08760)|[code](https://github.com/secureIT-project/CVEfixes)<br>[dataset](https://zenodo.org/records/13118970)|
